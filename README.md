@@ -21,26 +21,28 @@ This project implements a chatbot using the Groq API and Chainlit for the user i
 ## Installation
 
 1. Clone this repository:
-   ```
+   ```bash
    git clone https://github.com/ezequielsobrino/chainlit-chat.git
    cd chainlit-chat
    ```
 
 2. Install the required packages:
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
-3. Set up your Groq API key as an environment variable:
+3. Create a `.env` file in the root directory of the project and add your Groq API key:
+   ```bash
+   echo GROQ_API_KEY=your_api_key_here > .env
    ```
-   export GROQ_API_KEY=your_api_key_here
-   ```
+
+   Replace `your_api_key_here` with your actual Groq API key.
 
 ## Usage
 
 Run the Chainlit app:
 
-```
+```bash
 chainlit run app.py
 ```
 
