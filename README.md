@@ -1,4 +1,4 @@
-# Groq Chatbot with Chainlit
+# Chat with Chainlit
 
 This project implements a chatbot using the Groq API and Chainlit for the user interface. The chatbot allows users to interact with various language models provided by Groq, with customizable settings.
 
