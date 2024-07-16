@@ -13,10 +13,26 @@ This project implements a chatbot using the Groq API and Chainlit for the user i
 - Conversation history management
 - Real-time response streaming
 
+## Technologies Used
+
+### Chainlit
+
+This project uses Chainlit to create an interactive chat interface. Chainlit is a powerful tool for building Python-based chatbots and AI applications with ease.
+
+For more information and documentation on Chainlit, visit:
+[Chainlit GitHub Repository](https://github.com/Chainlit/chainlit)
+
+### Groq API
+
+The chat functionality is powered by Groq's language models. Groq provides fast and efficient AI inference capabilities.
+
+For a quick start guide and API documentation, visit:
+[Groq API Quickstart](https://console.groq.com/docs/quickstart)
+
 ## Prerequisites
 
 - Python 3.7+
-- Groq API key
+- Groq API key (Sign up at [console.groq.com](https://console.groq.com/) if you haven't already)
 
 ## Installation
 
@@ -64,3 +80,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Additional Resources
+
+- [Chainlit Documentation](https://docs.chainlit.io)
+- [Groq API Reference](https://console.groq.com/docs/api-reference)
+- [Groq Python Client Library](https://github.com/groq/groq-python)
+
+For any issues or questions specific to Chainlit or Groq, please refer to their respective documentation or support channels.
