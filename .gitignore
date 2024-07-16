@@ -29,3 +29,6 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+
+# Exclude specific directory
+.files/
