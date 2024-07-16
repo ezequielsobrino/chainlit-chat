@@ -22,8 +22,8 @@ This project implements a chatbot using the Groq API and Chainlit for the user i
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/groq-chainlit-chatbot.git
-   cd groq-chainlit-chatbot
+   git clone https://github.com/ezequielsobrino/chainlit-chat.git
+   cd chainlit-chat
    ```
 
 2. Install the required packages:
